@@ -1,0 +1,36 @@
+h1 {
+  font-size: 50px;
+  text-align: center;
+  font-style: italic;
+}
+
+.container {
+  margin: 30px auto;
+  background: #DCDCDC;
+  border: 1px solid #B0B0B0;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.col-form-label {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#inputstate {
+  display: block;
+}
+
+#inputcountry {
+  display: block;
+}
+
+button {
+  margin: 0 auto;
+  display: block;
+  align: center;
+}
+
+/*.form-row {
+  padding-left: 20px;
+}*/
